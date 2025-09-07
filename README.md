@@ -75,3 +75,4 @@ alx_travel_app/
 └── manage.py              # Django management
 ```
 # Updated Sun Sep  7 03:51:38 PM EAT 2025
+# Project verified with global git config
